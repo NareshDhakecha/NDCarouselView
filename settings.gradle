@@ -1,0 +1,3 @@
+rootProject.name = "NDCarouselView"
+include ':app'
+include ':carouselview'
