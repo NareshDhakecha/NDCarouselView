@@ -20,7 +20,7 @@
         android:id="@+id/item_picker"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:cv_selectedBackgroundColor="@color/purple_500"
+        app:carousel_selectedBackgroundColor="@color/purple_500"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

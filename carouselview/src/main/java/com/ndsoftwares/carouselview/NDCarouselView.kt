@@ -33,12 +33,12 @@ class NDCarouselView @JvmOverloads constructor(
         if (attrs != null) {
             val ta = getContext().obtainStyledAttributes(attrs, R.styleable.NDCarouselView)
             orientation = ta.getInt(
-                R.styleable.NDCarouselView_cv_orientation,
+                R.styleable.NDCarouselView_carousel_orientation,
                 DEFAULT_ORIENTATION
             )
 
             colorSelectedBackground = ta.getColor(
-                R.styleable.NDCarouselView_cv_selectedBackgroundColor,
+                R.styleable.NDCarouselView_carousel_selectedBackgroundColor,
                 Color.LTGRAY
             )
 
