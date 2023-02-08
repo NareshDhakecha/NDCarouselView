@@ -7,7 +7,7 @@
     android:background="@drawable/rounded_ract"
     android:gravity="center"
     android:text="Naresh"
-    android:textSize="32sp">
+    android:textSize="24sp">
 
 
 </TextView>
